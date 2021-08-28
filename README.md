@@ -31,19 +31,18 @@ champion_prioritaire = 'caitlyn'
 
 ## Conditions pour l'utiliser
 
-* Il vous faut un **écran 24 pouce** (si oui vous pourrez utiliser le bot)
+* Avoir la fenêtre du client League of Legends par défaut (celle-ci dépend de votre résolution d'écran)
 * Télécharger l'ensemble des fichiers
-* Ouvrir le projet et installer les modules nécessaires dans le terminal 
+* Télécharger python
+* Ouvrir le projet dans un IDE (exemple : Pycharm)
+* Installer les modules suivants depuis le terminal de votre IDE : 
 ```
 pip install pywin32 
 ```
 ```
 pip install pyautogui
 ```
-* Avoir la fenêtre du client League of Legends en **1280x720**
 * Suivre les étapes suivantes
-
-![Dimension de la fenetre](https://github.com/Steelataure/Bot-leveling-League-of-Legends/blob/league/Readme/fenetre.PNG 'Dimension de la fenetre')
 
 
 ***
